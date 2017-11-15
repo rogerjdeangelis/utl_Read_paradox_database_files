@@ -14,7 +14,7 @@ SAS/R Importing a paradox database into SAS  inspired by https://goo.gl/f0UGW7 h
     ```  * you can get a sample paradox database here;                                                                                                                ```
     ```  * these are good samples and have many variable types;                                                                                                       ```
     ```  http://www.sportamok.com/development/download;                                                                                                               ```
-    ```                                                                                                                                                               ```
+    ```  https://github.com/rogerjdeangelis/utl_Read_paradox_database_files/blob/master/utl_Read_paradox_database_files.zip                              ```
     ```  * usefull utility to get finames froom a directory;                                                                                                          ```
     ```  * Roland Rashleigh-Berry directory code, may he RIP;                                                                                                         ```
     ```  * the old guard is dying off;                                                                                                                                ```
