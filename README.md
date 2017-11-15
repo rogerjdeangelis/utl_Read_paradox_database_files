@@ -9,7 +9,7 @@ SAS/R Importing a paradox database into SAS  inspired by https://goo.gl/f0UGW7 h
     ```                                                                                                                                                               ```
     ```  SAS did a better job than R.                                                                                                                                 ```
     ```  Neither R nor SAS could convert Paradox 7 tables?                                                                                                            ```
-    ```  Of the Paradox 4 and 5 SAS read 4 and R read 3                                                                                                               ```
+    ```  Of the Paradox 4 and 5 dbf files SAS read 4 of them and R read 3 of them.                                                                                                               ```
     ```                                                                                                                                                               ```
     ```  * you can get a sample paradox database here;                                                                                                                ```
     ```  * these are good samples and have many variable types;                                                                                                       ```
